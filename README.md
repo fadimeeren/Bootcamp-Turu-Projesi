@@ -5,4 +5,5 @@
 -CSS
 
 # Ekran Görüntüsü
-![bootcamp gift2](https://github.com/user-attachments/assets/b5c0e844-47a2-4f4b-9b19-2ed0499d8a5d)
+
+![bootcamp turu gif](https://github.com/user-attachments/assets/81a83153-7f71-4e7d-aaa2-54497feb9db8)
